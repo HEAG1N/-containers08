@@ -261,6 +261,7 @@ Pornire și testare
 
 Trimitem modificările în repozitoriu și ne asiguram că testele trec cu succes. Pentru aceasta, trecem la fila Actions în repozitoriu și așteptam finalizarea sarcinii.
 
+![image](https://github.com/user-attachments/assets/ced743eb-a66f-4c3c-b376-2a20340762a4)
 
 Răspunsuri la întrebări:
 Ce este integrarea continuă?
